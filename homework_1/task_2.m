@@ -5,17 +5,17 @@
 % if the temp is above 100* display message saying its hot day
 
 %asks the user input on temp
-%Userhot= input('Please tell me, whats the temperature like?:');
+Userhot= input('Please tell me, whats the temperature like?:');
 
 % calculates farenheit 
-%Farenheit=(Userhot * 9/5) + 32;
+Farenheit=(Userhot * 9/5) + 32;
 
 
 %little writing for the user 
 
-%if Farenheit > 100
-%    disp('lord its hot doay!');
-% else
-%    disp('at least its not 100 today :)');
-%  end
+ if Farenheit > 100
+    disp('lord its hot doay!');
+ else
+    disp('at least its not 100 today :)');
+  end
 

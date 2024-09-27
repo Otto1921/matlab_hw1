@@ -9,21 +9,21 @@
 
 % The value%
 
-%Radius= 5;
+Radius= 5;
 
-% fprintf('the radius is : %g', Radius);
+ fprintf('the radius is : %g', Radius);
 
 %%the equation for a circle 
-% Area = pi * Radius;
+ Area = pi * Radius;
 
-% fprintf('the radius of a circle is :%g', Area);
+ fprintf('the radius of a circle is :%g', Area);
 
 
 % same thing, but for finding Circumference... 
 
-%Circumference = Radius * 2;
+Circumference = Radius * 2;
 
-%fprintf('the Circumference of a circle is:%g', Circumference);
+fprintf('the Circumference of a circle is:%g', Circumference);
 
 
 
